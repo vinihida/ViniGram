@@ -1,7 +1,7 @@
-const leftSideBar = () => {
+const LeftSideBar = () => {
   return (
-    <div>leftSideBar</div>
+    <div>LeftSideBar</div>
   )
 }
 
-export default leftSideBar
+export default LeftSideBar
